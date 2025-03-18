@@ -1,2 +1,4 @@
 ### 1. 적 AI가 플레이어를 발견하면 속도가 빨라지면서 추적, 시야에서 놓치면 원래 자리로 이동해서 배회
 ---
+https://github.com/user-attachments/assets/91d00a26-a675-4e8d-b2f3-dd63a19d0fb2
+
