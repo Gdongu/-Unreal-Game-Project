@@ -5,4 +5,7 @@ https://github.com/user-attachments/assets/91d00a26-a675-4e8d-b2f3-dd63a19d0fb2
 ### 2. 플레이어 HP, 스테미너 간단하게 구현 (스테미너는 수정, 보완 필요)
 ---
 https://github.com/user-attachments/assets/87139d06-5b05-4289-97aa-e221550a1a47
+### 3. 락온 시스템
+---
+https://github.com/user-attachments/assets/64b20104-003d-47d0-a307-6aa87d1837c1
 
